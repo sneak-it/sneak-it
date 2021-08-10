@@ -1,6 +1,6 @@
-# sneaK
+# sneaK / Ian
 
-<h4 align="left">IT Professional who dabbles in open source projects during his free time.</h3>
+<h3 align="left">IT Professional who dabbles in open source projects during his free time.</h3>
 
 [![Discord](https://img.shields.io/discord/253812864786235402?color=purple&label=discord&logo=Discord&style=for-the-badge)](https://snksrv.com/discord) [![Followers](https://img.shields.io/github/followers/sneak-it?label=followers&style=for-the-badge)](https://github.com/sneak-it) [![Twitch Status](https://img.shields.io/twitch/status/sneak_it?label=twitch&logo=Twitch&style=for-the-badge)](https://twitch.tv/sneak_it) [![GitHub Stars](https://img.shields.io/github/stars/sneak-it?affiliations=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&color=FFFF00&style=for-the-badge)](https://github.com/sneak-it?tab=repositories)
 
