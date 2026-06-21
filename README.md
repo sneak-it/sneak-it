@@ -1,4 +1,4 @@
-# sneaK / Ian
+# Ian
 
 <h3 align="left">IT Professional who dabbles in open source projects during his free time.</h3>
 
